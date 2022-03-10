@@ -1,0 +1,4 @@
+service : {
+  max_number_with_n_bits: (nat) -> (nat);
+  nat_to_nat8: (nat) -> (nat8);
+}
